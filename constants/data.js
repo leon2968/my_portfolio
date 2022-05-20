@@ -70,7 +70,7 @@ const userData = {
       desc: "Gained double degrees in B.S Mathematics and B.A Economics.",
     },
   ],
-  resumeUrl:
+  resumeUrl: "https://www.linkedin.com/in/leon-zheng-a1b34384/",
     "",
   socialLinks: {
     instagram: "https://instagram.com/",
