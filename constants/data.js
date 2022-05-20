@@ -16,9 +16,9 @@ const userData = {
     title:
       "I'm a software enginneer, a trader, and a lifelong learner",
     description: [
-      `I've been learning programming since I was 16 years old. However, I didn't become a software engineer until I hit 30.`,
-      `After experiencing a great difficulty of finding a junior level position, I realized a great developer portfolio can help sell myself.`,
-      `With each day passing, I get better in React, Node.js, MongoDB, MySQL, Bootstrap, Tailwind, Java, Python, Data Structures and Algorithms. So be sure to offer me a junior position now, otherwise I may have to start looking for senior positions soon.`,
+      `I've been learning programming since I was 16 years old.`,
+      `Currently seeking a junior level position.`,
+      `With each day passing, I get better in React, Node.js, MongoDB, MySQL, Bootstrap, Tailwind, Java, Python, Data Structures and Algorithms.`,
     ],
     currentProject: "Secret",
     currentProjectUrl: "https://github.com/leon2968",
