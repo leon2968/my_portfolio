@@ -53,7 +53,7 @@ Deployment can be done in 3 easy steps.
 
 # License
 
-This template is completely open source and free to use. Use it for client projects or your own portfolio project. Also Credits to [Manu Arora](https://github.com/manuarora700).
+This template is completely open source and free to use. Use it for client projects or your own portfolio project. Also credits to [Manu Arora](https://github.com/manuarora700).
 
 # Support
 
