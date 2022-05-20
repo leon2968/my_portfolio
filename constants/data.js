@@ -20,8 +20,8 @@ const userData = {
       `After experiencing a great difficulty of finding a junior level position, I realized a great developer portfolio can help sell myself.`,
       `With each day passing, I get better in React, Node.js, MongoDB, MySQL, Bootstrap, Tailwind, Java, Python, Data Structures and Algorithms. So be sure to offer me a junior position now, otherwise I may have to start looking for senior positions soon.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "Secret",
+    currentProjectUrl: "https://github.com/leon2968",
   },
   experience: [
     {
