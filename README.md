@@ -2,7 +2,7 @@
 
 **UPDATE:**
 
-Followed a detailed blog on [freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/) to build my own portfolio. Credits to [Manu Arora](https://github.com/manuarora700) and other contributos.
+Followed a detailed blog on [freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/) to build my own portfolio.
 
 This portfolio website is a simple and minimalistic website to showcase your skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
 
@@ -53,7 +53,7 @@ Deployment can be done in 3 easy steps.
 
 # License
 
-This template is completely open source and free to use. Use it for client projects or your own portfolio project. Give me credits at the footer (If you wish, it'll help me a lot :)).
+This template is completely open source and free to use. Use it for client projects or your own portfolio project. Also Credits to [Manu Arora](https://github.com/manuarora700).
 
 # Support
 
