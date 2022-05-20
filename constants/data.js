@@ -24,7 +24,7 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software enginneer, a trader, and a lifelong learner.",
+      "I'm a software enginneer, a trader, and a lifelong learner",
     description: [
       `I've been learning programming since I was 16 years old. However, I didn't become a software engineer until I hit 30.`,
       `After experiencing a great difficulty of finding a junior level position, I realized a great developer portfolio can help sell myself.`,
