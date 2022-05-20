@@ -7,16 +7,6 @@ const userData = {
   address: "New York, USA",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
-    },
-    {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
-    },
-    {
       title: "Portfolio",
       link: "https://github.com/leon2968",
       imgUrl: "/portfolio.png",
