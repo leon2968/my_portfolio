@@ -16,6 +16,5 @@ module.exports = {
     extend: {},
     display: ["responsive", "group-hover", "group-focus"],
   },
-
   plugins: [],
 };
