@@ -71,7 +71,6 @@ const userData = {
     },
   ],
   resumeUrl: "https://www.linkedin.com/in/leon-zheng-a1b34384/",
-    "",
   socialLinks: {
     instagram: "https://instagram.com/",
     twitter: "https://twitter.com/",
