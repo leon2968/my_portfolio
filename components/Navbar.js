@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
 import userData from "@constants/data";
+import ../styles/hovereffect.css;
 
 export default function Navbar() {
   const router = useRouter();
