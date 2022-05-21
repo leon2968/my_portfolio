@@ -3,7 +3,6 @@ import Link from "next/link";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
 import userData from "@constants/data";
-import "../styles/hovereffect.css";
 
 export default function Navbar() {
   const router = useRouter();
@@ -62,11 +61,7 @@ export default function Navbar() {
           </Link>
           <Link href="/projects">
             <a
-              className={`text-base  ${
-                router.asPath === "/projects"
-                  ? "text-gray-800 font-bold dark:text-gray-400"
-                  : "text-gray-600 dark:text-gray-300 font-normal "
-              }`}
+              className="hover-style-1"
             >
               Projects
               {router.asPath === "/projects" && (
