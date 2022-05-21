@@ -39,10 +39,9 @@ export default function Navbar() {
                 router.asPath === "/about"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
-              }`} 
-              id="hover-style-1"
+              }`} + " hover-style-1"
             >
-              About{" "}
+              AboutMe{" "}
               {router.asPath === "/about" && (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
