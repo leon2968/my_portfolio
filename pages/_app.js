@@ -1,4 +1,5 @@
 import "../styles/globals.css";
+import "../styles/hovereffect.css";
 import { ThemeProvider } from "next-themes";
 
 function MyApp({ Component, pageProps }) {
