@@ -62,11 +62,9 @@ const userData = {
   ],
   resumeUrl: "https://www.linkedin.com/in/leon-zheng-a1b34384/",
   socialLinks: {
-    instagram: "https://instagram.com/",
     twitter: "https://twitter.com/",
     linkedin: "https://www.linkedin.com/in/leon-zheng-a1b34384/",
     github: "https://github.com/leon2968",
-    facebook: "https://facebook.com/",
   },
 };
 
