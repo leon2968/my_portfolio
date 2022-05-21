@@ -16,9 +16,9 @@ const userData = {
     title:
       "I'm a software enginneer, a trader, and a lifelong learner",
     description: [
-      `I've been learning programming since I was 16 years old.`,
-      `Currently seeking a junior level position.`,
-      `With each day passing, I get better in React, Node.js, MongoDB, MySQL, Bootstrap, Tailwind, Java, Python, Data Structures and Algorithms.`,
+      `📚 I enjoy imrpoving my knowledge: [Javascript, Java, Python, C++, ReactJs, Node.js, Linux/Unix, MySQL/SQL, Git/Github, AWS, REST API]`,
+      `💻 My hobbies are stock trading, video gaming, travelling and watching Twitch.`,
+      `🔎 Currently seeking a junior level position.`,
     ],
     currentProject: "Secret",
     currentProjectUrl: "https://github.com/leon2968",
