@@ -37,9 +37,9 @@ export default function Navbar() {
             <a
               className={`text-base  ${
                 router.asPath === "/about"
-                  ? "text-gray-800 font-bold dark:text-gray-400"
-                  : "text-gray-600 dark:text-gray-300 font-normal "
-              }`} + " hover-style-1"
+                  ? "text-gray-800 font-bold dark:text-gray-400 hover-style-1"
+                  : "text-gray-600 dark:text-gray-300 font-normal hover-style-1"
+              }`}
             >
               AboutMe{" "}
               {router.asPath === "/about" && (
