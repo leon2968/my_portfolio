@@ -38,7 +38,7 @@ export default function Navbar() {
               className={`text-base  ${
                 router.asPath === "/about"
                   ? "text-gray-800 font-bold dark:text-gray-400 hover:bg-yellow-500 rounded-md px-2 py-1  hover:text-gray-50"
-                  : "text-gray-600 dark:text-gray-300 font-normal hover:bg-teal-700 rounded-md px-2 py-1  hover:text-gray-50"
+                  : "text-gray-600 dark:text-gray-300 font-normal hover:bg-yellow-500 rounded-md px-2 py-1  hover:text-gray-50"
               }`}
             >
               About Me{" "}
@@ -64,7 +64,7 @@ export default function Navbar() {
               className={`text-base  ${
                 router.asPath === "/projects"
                   ? "text-gray-800 font-bold dark:text-gray-400 hover:bg-yellow-500 rounded-md px-2 py-1  hover:text-gray-50"
-                  : "text-gray-600 dark:text-gray-300 font-normal hover:bg-teal-700 rounded-md px-2 py-1  hover:text-gray-50"
+                  : "text-gray-600 dark:text-gray-300 font-normal hover:bg-yellow-500 rounded-md px-2 py-1  hover:text-gray-50"
               }`}
             >
               Projects{" "}
@@ -90,7 +90,7 @@ export default function Navbar() {
               className={`text-base  ${
                 router.asPath === "/experience"
                   ? "text-gray-800 font-bold dark:text-gray-400 hover:bg-yellow-500 rounded-md px-2 py-1  hover:text-gray-50"
-                  : "text-gray-600 dark:text-gray-300 font-normal hover:bg-teal-700 rounded-md px-2 py-1  hover:text-gray-50"
+                  : "text-gray-600 dark:text-gray-300 font-normal hover:bg-yellow-500 rounded-md px-2 py-1  hover:text-gray-50"
               }`}
             >
               Experience{" "}
