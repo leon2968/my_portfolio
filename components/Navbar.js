@@ -41,7 +41,7 @@ export default function Navbar() {
                   : "text-gray-600 dark:text-gray-300 font-normal hover-style-1"
               }`}
             >
-              AboutMe{" "}
+              About Me{" "}
               {router.asPath === "/about" && (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -61,9 +61,13 @@ export default function Navbar() {
           </Link>
           <Link href="/projects">
             <a
-              className="hover-style-1"
+              className={`text-base  ${
+                router.asPath === "/projects"
+                  ? "text-gray-800 font-bold dark:text-gray-400 hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
+                  : "text-gray-600 dark:text-gray-300 font-normal hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
+              }`}
             >
-              Projects
+              Projects{" "}
               {router.asPath === "/projects" && (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
