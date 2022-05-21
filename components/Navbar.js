@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
 import userData from "@constants/data";
+import "@styles/hovereffect.css";
 
 export default function Navbar() {
   const router = useRouter();
@@ -39,7 +40,8 @@ export default function Navbar() {
                 router.asPath === "/about"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
-              }`}
+              }`} 
+              id="hover-style-1"
             >
               About{" "}
               {router.asPath === "/about" && (
