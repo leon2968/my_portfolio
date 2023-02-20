@@ -9,7 +9,17 @@ const userData = {
     {
       title: "ZenInventory",
       link: "https://github.com/leon2968/ZenInventory/",
-      imgUrl: "/portfolio.png",
+      imgUrl: "",
+    },
+    {
+      title: "schoolManagementSystem",
+      link: "https://github.com/leon2968/schoolManagementSystem/",
+      imgUrl: "",
+    },
+    {
+      title: "ZenSpace",
+      link: "https://github.com/leon2968/ZenSpace/",
+      imgUrl: "",
     },
   ],
   about: {
