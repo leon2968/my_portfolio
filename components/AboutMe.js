@@ -58,7 +58,7 @@ export default function AboutMe() {
                 >
                   LinkedIn
                 </a>{" "}
-                and I an open to new opportunties.
+                and I am open to new opportunities.
               </p>
             </div>
             {/* Social Links */}
