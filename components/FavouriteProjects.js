@@ -30,9 +30,10 @@ export default function FavouriteProjects() {
               <p>View all</p>
             </a>
           </Link>
-        </header>
+        </header> */
 
         {/* Grid starts here */}
+        /*
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
