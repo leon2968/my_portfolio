@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "leon2968",
   name: "Leon Zheng",
-  designation: "Full-Stack Developer",
+  designation: "Full-Stack/Back-end Developer",
   avatarUrl: "/avatar.png",
   email: "leonzheng66@gmail.com",
   address: "New York, USA",
@@ -16,11 +16,10 @@ const userData = {
     title:
       "I'm a software enginneer, a trader, and a lifelong learner",
     description: [
-      `📚 I enjoy imrpoving my knowledge: [Javascript, Java, Python, C++, ReactJs, Node.js, Linux/Unix, MySQL/SQL, Git/Github, AWS, REST API]`,
-      `💻 My hobbies are stock trading, video gaming, travelling and watching Twitch.`,
-      `🔎 Currently seeking a junior level position.`,
+      `📚 I enjoy imrpoving my knowledge: [Java, Javascript, Python, SQL, Spring, Hibernate, React, Linux, MySQL, Git, AWS, REST API, Docker]`,
+      `💻 My hobbies are stock trading, video gaming and watching Twitch.`,
     ],
-    currentProject: "Secret",
+    currentProject: "Back-end",
     currentProjectUrl: "https://github.com/leon2968",
   },
   experience: [
@@ -29,7 +28,7 @@ const userData = {
       company: "Open Source",
       year: "2022",
       companyLink: "https://github.com/leon2968",
-      desc: "Studying and learning new skills in software engineer.",
+      desc: "Enhancing skills in software engineering.",
     },
     {
       title: "Trader",
@@ -39,7 +38,7 @@ const userData = {
       desc: "Analyzed the financial markets and placed the best bets.",
     },
     {
-      title: "Risk Consultant",
+      title: "Risk Consultant - Application Support Engineer",
       company: "Murex",
       year: "2017",
       companyLink: "https://www.murex.com/en",
