@@ -8,7 +8,7 @@ const userData = {
   projects: [
     {
       title: "ZenInventory",
-      link: "https://zeninventory-render.onrender.com/",
+      link: "https://github.com/leon2968/ZenInventory/",
       imgUrl: "/portfolio.png",
     },
   ],
